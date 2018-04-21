@@ -1,1 +1,72 @@
-[{"name":"The Bulldog","hour":{"start":"","end":""},"desc":"Located on the second floor of the John J. Hemmingson Center, The Bulldog features a full sit down restaurant experience, a quick service takeout menu, as well as local wines and draft beers in a safe and healthy environment.","phone":"5093137227"},{"name":"Einstein Bros Bagels","hour":{"start":"","end":""},"desc":"Einstein Bros. Bagels is your neighborhood bagel shop, conveniently located in the Hemmingson Center. We’re proud to provide our guests with freshly baked bagels, breakfast sandwiches, lunch sandwiches, coffee, catering and so much more. Stop on in. We’ll have a fresh bagel and cup of coffee ready for you.","phone":"5093137237"},{"name":"Starbucks","hour":{"start":"","end":""},"desc":"This full-service Starbucks serves high-quality whole bean coffees along with fresh, rich-brewed, Italian style espresso beverages, a variety of pastries and confections, and coffee-related accessories and equipment. Starbucks also offers a line of premium teas.  So come get your coffee fix on the first floor of the John J. Hemmingson Center!","phone":"5093137214"},{"name":"Sub Connection","hour":{"start":"","end":""},"desc":"The custom made-to-order subs and wraps you love, conveniently located on the ground floor of Welch Hall.  SubConnection also features breakfast sandwiches, salads and pizza.  Come in to enjoy your favorites anytime with our extended hours.","phone":"5093136907"},{"name":"The Zaggin' Wagon","hour":{"start":"","end":""},"desc":"Food truck fare, Gonzaga style! Our menu is perfect for lunch on-the-go, or just to enjoy the beautiful weather outside!","phone":"5093136906"},{"name":"Contemplative Café","hour":{"start":"","end":""},"desc":"Contemplative Café serves Starbucks coffee – the high-quality whole bean coffee is fresh, rich, and produces an Italian style espresso. Contemplative Café also features a variety of pastries and delicious breakfast and lunch sandwiches!","phone":"5093136918"},{"name":"Duff's Bistro","hour":{"start":"","end":""},"desc":"Located in the Kennedy apartments, a great place to grab a meal, snack or espresso in a casual lounge atmosphere. Continental breakfast, weekend brunch, dinner and freshly prepared grab-and-go items available throughout the school year.","phone":"5093136979"},{"name":"Margie's at Tilford's","hour":{"start":"","end":""},"desc":"Margie's at Tilford's is a full-service espresso bar featuring locally owned Craven's Coffees, lattes,  mocha's, Italian sodas, fresh baked pastries and sandwiches.Tilford's coffee shop has been renamed Margie's at Tilford's, in honor of Margie Card, the shop supervisor who took such amazing care of her guests and staff. With this tribute we hope to keep her spirit of service thriving in the Gonzaga community.","phone":"5093135802"},{"name":"Café Lawte","hour":{"start":"","end":""},"desc":"Café Lawte is a full-service espresso bar featuring locally owned, responsibility sourced Craven's Coffees. Relax in the law school's café while enjoying a fresh baked pastry or snack. Baristas will prepare your favorite iced or hot caffeine fix, or chill with an Italian soda or brewed tea.","phone":"5093136928"},{"name":"Fuel Cell Smoothies & More","hour":{"start":"","end":""},"desc":"These blended-to-order masterpieces practically invented smoothies.  All of your favorites are in the mix: real whole fruit, 100% fruit juice, sherbet, and frozen yogurt, plus nutritional boosts.  Come in for a refreshing treat that’s always served in a fun and uplifting environment!","phone":"5093133973"}]
+[
+  {
+    "name": "The Bulldog",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Located on the second floor of the John J. Hemmingson Center, The Bulldog features a full sit down restaurant experience, a quick service takeout menu, as well as local wines and draft beers in a safe and healthy environment.",
+    "phone": "5093137227"
+  },
+  {
+    "name": "Einstein Bros Bagels",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Einstein Bros. Bagels is your neighborhood bagel shop, conveniently located in the Hemmingson Center. We’re proud to provide our guests with freshly baked bagels, breakfast sandwiches, lunch sandwiches, coffee, catering and so much more. Stop on in. We’ll have a fresh bagel and cup of coffee ready for you.",
+    "phone": "5093137237"
+  },
+  {
+    "name": "Starbucks",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "This full-service Starbucks serves high-quality whole bean coffees along with fresh, rich-brewed, Italian style espresso beverages, a variety of pastries and confections, and coffee-related accessories and equipment. Starbucks also offers a line of premium teas.  So come get your coffee fix on the first floor of the John J. Hemmingson Center!",
+    "phone": "5093137214"
+  },
+  {
+    "name": "Sub Connection",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "The custom made-to-order subs and wraps you love, conveniently located on the ground floor of Welch Hall.  SubConnection also features breakfast sandwiches, salads and pizza.  Come in to enjoy your favorites anytime with our extended hours.",
+    "phone": "5093136907"
+  },
+  {
+    "name": "The Zaggin' Wagon",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Food truck fare, Gonzaga style! Our menu is perfect for lunch on-the-go, or just to enjoy the beautiful weather outside!",
+    "phone": "5093136906"
+  },
+  {
+    "name": "Contemplative Café",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Contemplative Café serves Starbucks coffee – the high-quality whole bean coffee is fresh, rich, and produces an Italian style espresso. Contemplative Café also features a variety of pastries and delicious breakfast and lunch sandwiches!",
+    "phone": "5093136918"
+  },
+  {
+    "name": "Duff's Bistro",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Located in the Kennedy apartments, a great place to grab a meal, snack or espresso in a casual lounge atmosphere. Continental breakfast, weekend brunch, dinner and freshly prepared grab-and-go items available throughout the school year.",
+    "phone": "5093136979"
+  },
+  {
+    "name": "Margie's at Tilford's",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Margie's at Tilford's is a full-service espresso bar featuring locally owned Craven's Coffees, lattes,  mocha's, Italian sodas, fresh baked pastries and sandwiches.Tilford's coffee shop has been renamed Margie's at Tilford's, in honor of Margie Card, the shop supervisor who took such amazing care of her guests and staff. With this tribute we hope to keep her spirit of service thriving in the Gonzaga community.",
+    "phone": "5093135802"
+  },
+  {
+    "name": "Café Lawte",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "Café Lawte is a full-service espresso bar featuring locally owned, responsibility sourced Craven's Coffees. Relax in the law school's café while enjoying a fresh baked pastry or snack. Baristas will prepare your favorite iced or hot caffeine fix, or chill with an Italian soda or brewed tea.",
+    "phone": "5093136928"
+  },
+  {
+    "name": "Fuel Cell Smoothies & More",
+    "hour": { "start": "", "end": "" },
+    "desc":
+      "These blended-to-order masterpieces practically invented smoothies.  All of your favorites are in the mix: real whole fruit, 100% fruit juice, sherbet, and frozen yogurt, plus nutritional boosts.  Come in for a refreshing treat that’s always served in a fun and uplifting environment!",
+    "phone": "5093133973"
+  }
+]
