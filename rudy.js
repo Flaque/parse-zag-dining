@@ -60,14 +60,11 @@ function sleep(milliseconds) {
     let $ = cheer.load(body);
 
     // hours
-    hours.push({
-      start: $(".start-hours")
-        .first()
-        .text(),
-      end: $(".end-hours")
+    hours.push(
+      $(".idh-hours")
         .first()
         .text()
-    });
+    );
 
     // desc
     descs.push(
@@ -92,9 +89,10 @@ function sleep(milliseconds) {
       name: names[i],
       hour: hours[i],
       desc: descs[i],
-      phone: phones[i]
+      phone: phones[i],
+      address: addresses[i]
     });
   }
 
-  log(JSON.stringify(total));
+  log(JSON.stringify(total, null, 2));
 })();
